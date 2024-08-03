@@ -21,12 +21,10 @@ body
     background-image: url(../Images/me.jpg);
     background-size: cover;
     background-position: center;
-
 }
 .container
 {
     padding: 10px 10%;
-
 }
 nav
 {
@@ -39,7 +37,6 @@ nav
 {
     width: 140px;
 }
-
 nav ul li
 {
     display: inline-block;
@@ -68,7 +65,6 @@ nav ul li a:hover::after
 {
     width: 100%;
 }
-
 .header-text
 {
     margin-top: 15%;
@@ -110,7 +106,6 @@ nav ul li a:hover::after
     flex-basis: 60%;
 
 }
-
 #sub-title
 {
    font-size: 60px;
